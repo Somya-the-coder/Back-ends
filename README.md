@@ -10,3 +10,4 @@ Industry-Specific Datasets	              Extract unique, non-public data (e.g., 
 Competitive Advantage	                    Get fresh, exclusive data others don’t have 🚀                            	      ❌ No (Everyone has access to the same Kaggle datasets)
 Large-Scale Data	                        Collect millions of data points over time 📈	                                    ❌ No (Kaggle datasets are limited)
 Custom Preprocessing	                    Extract and clean data exactly as needed 🛠️	                                      ❌ No (Predefined formats only)
+
